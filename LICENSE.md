@@ -22,7 +22,6 @@ Para obter informações sobre licenciamento oficial e autorizado, entre em cont
 
 **NeoDevelopers Tecnologia LTDA**  
 Curitiba, Paraná – Brasil  
-CNPJ: XX.XXX.XXX/0001-XX  
 
 📧 [interno@neodevelopersglobal.com](mailto:interno@neodevelopersglobal.com)
 
