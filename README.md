@@ -1,0 +1,2 @@
+# EdgeAI
+EdgeAI by NeoDevelopers
